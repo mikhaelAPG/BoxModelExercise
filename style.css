@@ -51,6 +51,7 @@ table {
 body {
 	font: 16px/28px arial, sans-serif;
 	background-color: #eaeaea;
+	background-image: url(img/double-bubble-outline.png);
 	color: #333;
 }
 
@@ -118,4 +119,15 @@ body {
 .content p {
 	margin-bottom: 20px;
 	font-size: 14px;
+}
+
+.footer {
+	background-color: #333;
+	padding: 15px;
+}
+
+.footer .copy {
+	color: #eaeaea;
+	text-align: center;
+	font-size: 12px;
 }
